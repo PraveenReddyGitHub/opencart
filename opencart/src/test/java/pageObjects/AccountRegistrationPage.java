@@ -17,7 +17,7 @@ WebDriver driver;
 		PageFactory.initElements(driver, this);
 	}
 	
-	@FindBy(id="input-firstname")
+	@FindBy(id="input-firs")
 	WebElement firstName;
 	
 	@FindBy(id="input-lastname")
