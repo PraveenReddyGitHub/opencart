@@ -16,7 +16,7 @@ public class HomePage {
 	}
 	
 	@FindBy(xpath="//span[normalize-space()='My Account']")
-	WebElement lnkMyaccount;
+	WebElement lnkMyaccou;
 	
 	@FindBy(linkText="Register")
 	WebElement lnkRegister;
