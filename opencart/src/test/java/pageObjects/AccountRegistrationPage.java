@@ -24,7 +24,7 @@ WebDriver driver;
 	@FindBy(id="input-lastt")
 	WebElement lastName;
 	
-	@FindBy(id="input-ema")
+	@FindBy(id="input-eema")
 	WebElement email;
 	
 	@FindBy(id="input-password")
