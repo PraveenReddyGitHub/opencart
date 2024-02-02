@@ -18,7 +18,7 @@ WebDriver driver;
 	}
 	
 
-	@FindBy(id="input-firs")
+	@FindBy(id="input-firsttt")
 	WebElement firstName;
 	
 	@FindBy(id="input-lastttttt")
