@@ -17,14 +17,11 @@ WebDriver driver;
 		PageFactory.initElements(driver, this);
 	}
 	
-<<<<<<< HEAD
-	@FindBy(id="input-firsttt")
-=======
+
 	@FindBy(id="input-firs")
->>>>>>> branch 'master' of https://github.com/PraveenReddyGitHub/opencart.git
 	WebElement firstName;
 	
-	@FindBy(id="input-last")
+	@FindBy(id="input-lastt")
 	WebElement lastName;
 	
 	@FindBy(id="input-email")
