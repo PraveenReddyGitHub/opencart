@@ -20,7 +20,7 @@ WebDriver driver;
 	@FindBy(id="input-firsttt")
 	WebElement firstName;
 	
-	@FindBy(id="input-lastname")
+	@FindBy(id="input-last")
 	WebElement lastName;
 	
 	@FindBy(id="input-email")
